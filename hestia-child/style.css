@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Hestia Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Hestia Child Theme
+ Author:       Alex Gutierrez
+ Author URI:   http://alexg1021.github.io/
+ Template:     hestia
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         blog, custom-logo, portfolio, e-commerce, rtl-language-support, post-formats, grid-layout, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready
+ Text Domain:  hestia-child
+*/
+
+.page-header{
+    margin: 0 0 20px 0!important;
+}
